@@ -1,1 +1,12 @@
-/* add CSS class and element and selectors here */
+
+
+body {
+  background-color:purple;
+  font-size: 100%
+
+}
+.SamSampleClass {
+font-family:courier;
+font-size: 600%;
+border: 10px dotted ;
+}
